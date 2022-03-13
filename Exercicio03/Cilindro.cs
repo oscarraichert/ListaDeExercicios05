@@ -9,7 +9,7 @@
 
         public Cilindro(double raio, double altura)
         {
-            Pi = 3.1;
+            Pi = 3.14;
             Raio = raio;
             Altura = altura;
         }
